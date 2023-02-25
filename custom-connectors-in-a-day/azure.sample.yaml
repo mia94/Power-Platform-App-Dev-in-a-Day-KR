@@ -4,7 +4,7 @@ name: custom-connectors-in-a-day
 
 infra:
   provider: "bicep"
-  path: "infra"
+  path: "custom-connectors-in-a-day/infra"
   module: "main"
 
 pipeline:
